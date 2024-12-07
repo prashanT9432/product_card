@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 
 bash
-git clone [https://github.com/yourusername/product-card-assignment.git](https://github.com/prashanT9432/product_card)
+git clone [https://github.com/prashanT9432/product-card-assignment.git](https://github.com/prashanT9432/product_card)
 Navigate to the project directory:
 
 bash

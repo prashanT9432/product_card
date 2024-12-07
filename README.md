@@ -1,5 +1,8 @@
 Product Card Assignment
 
+Hosted Website Link : - [https://product-card-coral.vercel.app/](https://product-card-coral.vercel.app/) 
+
+
 Project Description
 This project is a product card assignment that showcases a product with details like the product image, name, price, and a brief description. The card is designed with responsive styles using Tailwind CSS.
 
@@ -14,7 +17,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/product-card-assignment.git
+git clone [https://github.com/yourusername/product-card-assignment.git](https://github.com/prashanT9432/product_card)
 Navigate to the project directory:
 
 bash

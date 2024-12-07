@@ -1,6 +1,6 @@
 Product Card Assignment
 
-Hosted Website Link : - [https://product-card-coral.vercel.app/](https://product-card-coral.vercel.app/) 
+Hosted Website Link : - [Product Card](https://product-card-coral.vercel.app/) 
 
 
 Project Description : - 

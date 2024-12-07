@@ -3,7 +3,7 @@ Product Card Assignment
 Hosted Website Link : - [https://product-card-coral.vercel.app/](https://product-card-coral.vercel.app/) 
 
 
-Project Description
+Project Description : - 
 This project is a product card assignment that showcases a product with details like the product image, name, price, and a brief description. The card is designed with responsive styles using Tailwind CSS.
 
 Features

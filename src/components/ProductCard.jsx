@@ -52,7 +52,7 @@ const ProductCard = () => {
             </div>
           </div>
           <price className="-tracking-tighter price w-[130%] text-white duration-200 opacity-0">
-            ₹5,139.00
+           MRP : ₹5,139.00
           </price>
           <button className="mt-2 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-500 duration-200 opacity-0">
             Buy
